@@ -58,3 +58,6 @@ Replace `your_azure_openai_endpoint`, `your_azure_openai_key`, `your_gpt_model_n
 - **Scraping**: Input a URL to scrape the headline and content of news articles.
 - **Summarization**: Automatically generate summaries and identify main topics of the articles.
 - **Semantic Search**: Search through the stored articles using a query to find relevant information.
+
+## Demo
+[![Demo]([https://share.gifyoutube.com/KzB6Gb.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTEwODdwdWVtcm9tNXJoMG8ycXMwdDI5eWZkY2xkZmZobGlhYTQ2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ilwk6V6RTjPbrWaFZZ/giphy.gif))]
