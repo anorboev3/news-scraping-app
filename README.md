@@ -60,4 +60,4 @@ Replace `your_azure_openai_endpoint`, `your_azure_openai_key`, `your_gpt_model_n
 - **Semantic Search**: Search through the stored articles using a query to find relevant information.
 
 ## Demo
-![Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTEwODdwdWVtcm9tNXJoMG8ycXMwdDI5eWZkY2xkZmZobGlhYTQ2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ilwk6V6RTjPbrWaFZZ/giphy.gif)
+![Demo](https://github.com/anorboev3/news-scraping-app/blob/main/assets/demo.gif)
