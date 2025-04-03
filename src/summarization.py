@@ -23,7 +23,7 @@ client = AzureOpenAI(
 # Returns the summary as a string
 def summarize_and_identify_topics(article_text):
     response = client.chat.completions.create(
-        model="gpt-4o-mini",  # Replace with your Azure deployment name
+        model=gpt_model_name,
         messages=[
             {"role": "system", "content": "Summarize the article and identify its main topics."},
             {"role": "user", "content": article_text}
